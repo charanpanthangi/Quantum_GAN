@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="240" viewBox="0 0 400 240">
+  <rect width="400" height="240" fill="#ffffff" />
+  <text x="20" y="30" font-size="16" fill="#333">Training loss (placeholder)</text>
+  <polyline fill="none" stroke="#dd8452" stroke-width="2" points="40,180 120,150 200,130 280,120 360,110" />
+  <polyline fill="none" stroke="#4c72b0" stroke-width="2" points="40,170 120,160 200,140 280,130 360,125" />
+  <text x="60" y="210" font-size="12" fill="#dd8452">Generator</text>
+  <text x="200" y="210" font-size="12" fill="#4c72b0">Discriminator</text>
+</svg>
