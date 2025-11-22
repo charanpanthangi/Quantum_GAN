@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="240" viewBox="0 0 400 240">
+  <rect width="400" height="240" fill="#ffffff" />
+  <text x="20" y="30" font-size="16" fill="#333">Real vs Generated (final)</text>
+  <line x1="40" y1="200" x2="360" y2="200" stroke="#333" />
+  <line x1="40" y1="200" x2="40" y2="60" stroke="#333" />
+  <rect x="90" y="120" width="40" height="80" fill="#4c72b0" opacity="0.6" />
+  <rect x="150" y="90" width="40" height="110" fill="#4c72b0" opacity="0.6" />
+  <rect x="210" y="110" width="40" height="90" fill="#dd8452" opacity="0.6" />
+  <rect x="270" y="130" width="40" height="70" fill="#dd8452" opacity="0.6" />
+  <text x="60" y="220" font-size="12" fill="#333">Values</text>
+  <text x="10" y="80" font-size="12" fill="#4c72b0">Real</text>
+  <text x="10" y="100" font-size="12" fill="#dd8452">Generated</text>
+</svg>
